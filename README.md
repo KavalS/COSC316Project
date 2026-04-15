@@ -28,6 +28,11 @@ HabitFlow/
         └── HabitsManageView.swift ← Add/delete habits (View #5)
 
 
+Legacy:
+
+HabitFlow allows its users to track and build daily habits to promote a healthier mindset and lifestyle. For future development it would be nice add a feature of community sharing where multiple app users can post and share their progress among each other. 
+
+
 Todo:
 
 - Fix date and time box
