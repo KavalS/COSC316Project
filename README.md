@@ -26,3 +26,13 @@ HabitFlow/
         ├── CalendarView.swift    ← Calendar heatmap (View #3)
         ├── StatsView.swift       ← Analytics & streaks (View #4)
         └── HabitsManageView.swift ← Add/delete habits (View #5)
+
+
+Todo:
+
+- Fix date and time box
+- Decrease color selection for new habits
+  
+
+
+
